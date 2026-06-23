@@ -27,3 +27,7 @@ This repository contains my C programming practice, assignments, and mini-projec
 
 ## Purpose
 This repository serves as a record of my progress while learning C programming and problem-solving fundamentals.
+
+## Note
+Make sure to remove the comments from the code to run it.
+As it was done to make the codes in one file.
