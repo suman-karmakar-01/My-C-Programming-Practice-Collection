@@ -1,0 +1,292 @@
+13-08-2025
+
+1. Calculate the avg marks of 5 subjects
+2. Calculate the area of circle by getting r from the user
+3. Calculate the area of rectangle by getting l and b from the user
+4. To find quotient and remainder of 2 numbers
+5. To find the number is even or odd
+6. Absolute value of a number entered by the keyboard
+7. Write a code to convert number of days into years, months, days.
+
+
+
+20-08-2025
+
+1. Check if a Number is Positive, Negative, or Zero. 
+2. Find out larger between 2 numbers. 
+3. Find out smallest and largest among 3 numbers. 
+4. Write a program to check whether a character entered through the keyboard is the 
+alphabet or not. 
+5. Write a program to check whether a character entered through the keyboard is 
+vowel or consonant or none of them. 
+6. Write a program to check whether a character entered through the keyboard is 
+alphabet, digit or special character. 
+7. Grade calculation:  
+	If the score is less than 40 then fail. 
+	If the score is between 41 to 50, then Grade E. 
+	If the score is between 51 to 60, then Grade D. 
+	If the score is between 61 to 70, then Grade C. 
+	If the score is between 71 to 80, then Grade B. 
+	If the score is between 81 to 90, then Grade A. 
+	If the score is between 91 to 100, then Grade O. 
+8. Write a C program to input electricity unit charges and calculate total electricity bill 
+according to the given condition: 
+	For first 50 units Rs. 5/unit 
+	For next 100 units Rs. 10/unit 
+	For next 100 units Rs. 15/unit 
+	For unit above 250 Rs. 20/unit 
+	An additional charge of 20% is added to the bill 
+9. Make a simple calculator of 2 numbers. {a, b} , { +, -, *, /}
+
+
+
+27-08-2025
+
+1. Take 3 lengths from the user and check if they form a triangle.
+2. Check whether the triangle is equilateral, scalene or isosceles triangle.
+3. Take a positive integer from the user. If it is even, print all the numbers starting from -1 to that number. If it is odd, print in descending order 	starting from that number and go to -5.
+4. Take a positive float (n) from the user. Print from -n to n in increment of 0.5.
+5. Take a positive integer (x) from the user. Check which number from 1 to x are divisible by 4. Print in following way
+	enter a positive number : 12
+	1 is not divisible by 4
+	2 is not divisible by 4
+	3 is not divisible by 4
+	4 is divisible by 4...
+	12 is divisible by 4
+6. Print alphabets from 'Z' to 'A' (in reverse order).
+7. Print alphabets from 'B' to 'T' with a gap of 2 alphabets.
+
+
+
+
+03-09-2025
+
+1. Take a number 'n' from the user and display the sum of 1st n terms
+2. Display the multiplication table of the given number
+3. Enter an integer and print its digit in reverse order
+4. Create a simple calculation program and exit when user choose to exit
+5. To guess a number when computer keeps guessing until get the right one
+
+
+
+
+
+
+
+
+
+
+
+10-09-2025
+
+1. To check Palindrome number and String.
+2. To check Armstrong Number (1^3 + 2^3 + 3^3 = 153)
+3. To reverse the String without using library function.
+4. Fibonacci Series (0,1,1,2,3,5,8)
+5. To check perfect number (e.g. 1+2+3+4+7+14 = 28)
+
+
+
+
+
+
+
+
+08-10-2025
+
+1. Perform calculation on two integers and the operations would be Addition, Subtraction and Multiplication using Switch function.
+2.      1
+      2   2
+     3  3  3
+    4  4  4  4
+  5   5  5  5  5
+3. 1
+   01
+   101
+   0101
+   10101
+   010101
+4. 
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+5. 
+1 2 3 4 5
+1 2 3 4 
+1 2 3
+1 2
+1
+
+6. 
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+7. 
+        *
+      *   *
+    *       *
+  *           *
+* * * * * * * * *
+
+8. 
+* * * * * 
+  * * * * * 
+    * * * * * 
+      * * * * * 
+        * * * * * 
+          * * * * *
+9.
+A
+ AB
+  ABC
+   ABCD
+    ABCD
+     ABCDE
+      ABCDEF
+10.
+* * * * * *
+  * * * * *
+    * * * * 
+      * * * 
+        * *
+          *
+
+
+
+
+
+
+
+
+
+15-09-2025
+
+1. Find the Square and Cube of any number.
+2. Check whether the Number is Armstrong or not
+3. Check whether a number can be expressed as the sum of 2 prime numbers
+4. Find the sum of digits for three numbers taken from the user and find the maximum of their sum
+5. Find from second up to the fifth power at any number having absolute values less than 10 without using library function pow
+
+
+
+
+
+
+
+
+29-10-2025
+
+1.Take n (number of elements in the array) from user and then take n elements (int or
+float) from user and store it in the array.
+
+2. Print all the values of two arrays (one consists of integers and other of floats) and their addresses.
+
+3. Print even index (like 2, 4..) values and print sum of these values.
+
+4. Print product of odd index values.
+
+5. Take an array of 10 numbers. Make a new array by reversing the original array.
+
+6.Form the series: 26 12 20 30 42 56 72 90 110
+
+7. Initialize an array with 10 elements. Insert a new element in the 4th posiltion.
+
+8. Copy the array elements to a new array.
+
+9. Declare an array of size 10. Take elements from the keyboard. Delete the element from a position (taken from user) and print the final array.
+Say initially the array is (11, 12, 31, 4, 50, 62, 75, 82, 9, 100)
+
+10. Find the maximum and minimum of all array elements and their positions.
+
+11. If an array arr contains n elements, then write a program to check if arr[ 0 ] = arr[ n- 1], arr[1]=arr[n-2] and so on.
+
+12. Count the frequency of each element of an array,
+If array arr =(2, 3, 2, 1, 6, 6, 4, 6, 4, 8)
+Then output will be:
+2 occurs 2 times
+3 occurs 1 times
+
+13. Take 2 different matrices of size 3 x 4. Do matrix addition.
+
+14. Take one matrix of size 3 x 2 and another of size 2 x 4. Do matrix multiplication
+
+
+
+
+
+
+
+
+
+
+
+
+12-11-2025
+
+1. Find Max and Min of an array elements and their positions
+
+2. Take a matrix of size (2x3) and transpose it.
+
+3. Take an array of 10 elements insert a new element in 5th position
+
+4. Check if the string is Palindrome or not
+
+5. Count no. of Vowels and Consonants in a string
+
+6. Take a 1D array of size 15, check if a specific number in that array or not
+
+7. Frequency of a character in a string
+
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
